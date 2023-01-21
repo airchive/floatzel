@@ -1,7 +1,7 @@
 {
-  "name": "vue-floating-element",
+  "name": "floatzel",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
