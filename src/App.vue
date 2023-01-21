@@ -9,6 +9,7 @@ import FloatingElement from './components/FloatingElement.vue'
 
 export default {
   name: 'App',
+
   components: {
     FloatingElement
   }
